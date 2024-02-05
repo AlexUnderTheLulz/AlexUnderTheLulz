@@ -3,6 +3,7 @@
 <!--
 **AlexUnderTheLulz/AlexUnderTheLulz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
