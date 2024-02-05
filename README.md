@@ -6,9 +6,7 @@ Backend Java developer
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [alexunderthelulz@outlook.com](mailto:alexunderthelulz@outlook.com) 
-<p align="left">
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-</p>
+
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
