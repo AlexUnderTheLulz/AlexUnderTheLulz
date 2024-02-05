@@ -4,10 +4,10 @@ Hi 👋 My name is Alexander
 Backend Java developer
 ----------------------
 
+I've been studying programming for about a year. I started with python, but now I'm fully focused on learning java and frameworks for developing client-server applications.
+
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [alexunderthelulz@outlook.com](mailto:alexunderthelulz@outlook.com) 
-
-I've been studying programming for about a year. I started with python, but now I'm fully focused on learning java and frameworks for developing client-server applications.
 
 <b>Skills</b>
 
