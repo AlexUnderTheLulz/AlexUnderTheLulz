@@ -7,6 +7,8 @@ Backend Java developer
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [alexunderthelulz@outlook.com](mailto:alexunderthelulz@outlook.com) 
 
+I've been studying programming for about a year. I started with python, but now I'm fully focused on learning java and frameworks for developing client-server applications.
+
 <b>Skills</b>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
