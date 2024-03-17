@@ -12,7 +12,6 @@ I've been studying programming for about a year. I started with python, but now 
 <b>Skills</b>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 <b>My GitHub Stats</b>
 
