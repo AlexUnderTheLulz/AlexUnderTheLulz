@@ -17,7 +17,3 @@ I've been studying programming for about a year. I started with python, but now 
 
 <a href="http://www.github.com/AlexUnderTheLulz"><img src="https://github-readme-stats.vercel.app/api?username=AlexUnderTheLulz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1a1b27&hide_border=false&show_icons=true" alt="AlexUnderTheLulz's GitHub stats" /></a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexUnderTheLulz&theme=tokyonight)
-
-<b>My leetCode Stats</b>
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AlexUnderTheLulz&theme=dark)](https://github.com/AlexUnderTheLulz/leetcode-stats)
