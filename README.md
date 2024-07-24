@@ -4,14 +4,22 @@ Hi 👋 My name is Alexander
 Android developer (Java)
 ----------------------
 
-I've been studying programming for about a year. I started with python, but now I'm fully focused on learning java and tools for developing android application.
+I've been studying programming for about a year. I started with python, but now I'm fully focused on learning Kotlin and tools for developing android application.
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [alexunderthelulz@outlook.com](mailto:alexunderthelulz@outlook.com) 
 
 <b>Skills</b>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" 
+  height="40" witgh="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
+  height="40" witgh="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+  height="40" witgh="40"/>
+          
+          
 
 <b>My GitHub Stats</b>
 
