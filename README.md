@@ -7,8 +7,9 @@ Android developer
 I've been studying programming for about a year. I started with python, but now I'm fully focused on learning Kotlin and tools for developing android application.
 
 
-<b>Skills</b>
 
+Skills
+----------------------
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" 
   height="45" witgh="45"/>
