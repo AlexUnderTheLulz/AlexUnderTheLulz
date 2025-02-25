@@ -6,8 +6,6 @@ Android developer
 
 I've been studying programming for about a year. I started with python, but now I'm fully focused on learning Kotlin and tools for developing android application.
 
-*   🌍  I'm based in Moscow
-*   ✉️  You can contact me at [alexunderthelulz@yandex.ru](mailto:alexunderthelulz@yandex.ru) 
 
 <b>Skills</b>
 
